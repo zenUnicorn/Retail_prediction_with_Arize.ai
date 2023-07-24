@@ -16,6 +16,15 @@ pip install arize
 
 Initialize Arize client from arize.pandas.logger to call  Client.log() 
 
+```python
+
+from arize.pandas.logger import Client, Schema
+​
+API_KEY = 'ARIZE_API_KEY'
+SPACE_KEY = 'YOUR SPACE KEY'
+arize_client = Client(space_key=SPACE_KEY, api_key=API_KEY)
+```
+
 
 
 
