@@ -14,4 +14,9 @@ ML Observability Platform for real-time monitoring, analysis, and explainability
 pip install arize
 ```
 
+Initialize Arize client from arize.pandas.logger to call  Client.log() 
+
+
+
+
 
