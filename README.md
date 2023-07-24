@@ -3,5 +3,5 @@ Retail prediction with Arize.ai
 
 ## Installation
 ```python
-
+pip install arize
 ```
